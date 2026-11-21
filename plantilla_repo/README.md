@@ -2,7 +2,7 @@
 
 > Renombrad este fichero a `README.md` y completad las partes entre `<...>`.
 
-**Equipo:** <nombre 1>, <nombre 2>, <nombre 3>, <nombre 4>
+**Equipo 1:** <Agustín Roberto Olivera>, <Alejandro Serrano Molina>, <Daniel Ruiz Chaverri>, <Roberto Soteres Muñoz>. <Sergio Fernández Quintela>
 
 Catálogo de películas enriquecido a partir del dataset MovieLens: análisis con Pandas, sinopsis y web oficial desde la API de TMDB, y sinopsis en español generadas con Gemini.
 
@@ -10,13 +10,17 @@ Catálogo de películas enriquecido a partir del dataset MovieLens: análisis co
 
 | Persona | Rol | Notebook / tarea |
 |---|---|---|
-| <nombre> | <rol> | <notebook> |
+| <Daniel> | <A: Responsable de repo y datos> | <01_ingesta_limpieza> |
+| <Alejandro> | <B: Analista de datos> | <02_analisis> |
+| <Roberto> | <C: Integración con APIs> | <03_tmdb> |
+| <Agustín> | <D: IA generativa> | <04_gemini> |
+| <Sergio> | <E: Preguntas y cierre> | <05_bonus_y_cierre> |
 
 ## Instalación
 
 ```bash
-git clone <URL del repo>
-cd <carpeta>
+git clone <https://github.com/txabeRito/tc-catalogo-peliculas.git>
+cd <tc-catalogo-peliculas>
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
