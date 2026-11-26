@@ -2,7 +2,7 @@
 
 > Renombrad este fichero a `README.md` y completad las partes entre `<...>`.
 
-**Equipo 1:** <Agustín Roberto Olivera>, <Alejandro Serrano Molina>, <Daniel Ruiz Chaverri>, <Roberto Soteres Muñoz>. <Sergio Fernández Quintela>
+**Equipo 1:** Agustín Roberto Olivera, Alejandro Serrano Molina, Daniel Ruiz Chaverri, Roberto Soteres Muñoz, Sergio Fernández Quintela.
 
 Catálogo de películas enriquecido a partir del dataset MovieLens: análisis con Pandas, sinopsis y web oficial desde la API de TMDB, y sinopsis en español generadas con Gemini.
 
@@ -10,11 +10,11 @@ Catálogo de películas enriquecido a partir del dataset MovieLens: análisis co
 
 | Persona | Rol | Notebook / tarea |
 |---|---|---|
-| <Daniel> | <A: Responsable de repo y datos> | <01_ingesta_limpieza> |
-| <Alejandro> | <B: Analista de datos> | <02_analisis> |
-| <Roberto> | <C: Integración con APIs> | <03_tmdb> |
-| <Agustín> | <D: IA generativa> | <04_gemini> |
-| <Sergio> | <E: Preguntas y cierre> | <05_bonus_y_cierre> |
+| Daniel | Responsable de repo y datos | 01_ingesta_limpieza |
+| Alejandro | Analista de datos | 02_analisis |
+| Roberto | Integración con APIs | 03_tmdb |
+| Agustín | IA generativa | 04_gemini |
+| Sergio | Preguntas y cierre | 05_bonus_y_cierre |
 
 ## Instalación
 
@@ -44,8 +44,6 @@ Ejecutad los notebooks **en este orden** (cada uno genera un CSV en `data/proces
 4. `04_gemini.ipynb` → `movies10_es.csv`
 
 ## Resultados principales
-
-<3–5 frases con lo más interesante que habéis encontrado>
 
 - Destacamos la importancia de un buen orden de trabajo en GitHub y con los compañeros, y así poder sacar mucho más rápido el trabajo. 
 
