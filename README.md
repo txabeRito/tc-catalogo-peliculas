@@ -47,8 +47,4 @@ Ejecutad los notebooks **en este orden** (cada uno genera un CSV en `data/proces
 
 <3–5 frases con lo más interesante que habéis encontrado>
 
-- Destacamos la importancia de un buen orden de trabajo en GitHub y con los compañeros, y así poder sacar mucho más rápido el trabajo. 
 
-- Se hizo evidente la importancia de trabajar con roles divididos y bien organizados y pensar el código o lo que estemos haciendo de esa forma (dejando descripción y contexto de lo que hicimos y por qué). Esto hizo mucho más productivo el challenge.
-
-- Para conseguir el objetivo, fue importante que entre tareas, por ejemplo la 2 y la 3, hubiera un buen “contrato” para saber qué datos van a pasar de un lado a otro, y así poder trabajar en paralelo.
